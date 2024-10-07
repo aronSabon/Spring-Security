@@ -18,7 +18,7 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.web.SecurityFilterChain;
 
 import com.spring.security.service.MyUserDetailsService;
-
+//test github
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig {
